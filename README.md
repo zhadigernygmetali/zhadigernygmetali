@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nygmetali! 👋
 
-<!--
-**zhadigernygmetali/zhadigernygmetali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Applied AI Graduate Student at Northeastern University
 
-Here are some ideas to get you started:
+I'm currently pursuing a Master's degree in Applied Artificial Intelligence at Northeastern University in Boston, MA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic background is in Economics, and I have professional experience in public administration and regulatory policy.
+
+I'm interested in exploring how Artificial Intelligence can solve real-world challenges, improve decision-making, and transform business and government processes.
+
+### 🛠️ Technical Skills
+- **Programming:** Python
+- **Data Analysis:** pandas, NumPy, Matplotlib
+- **Machine Learning:** Regression, Classification, PCA
+- **Tools:** Jupyter Notebook, Google Colab, GitHub
+
+### 🌱 Currently Learning
+- Machine Learning and Statistical Modeling
+- Generative AI and Large Language Models
+- AI Applications and Product Development
+
+### 🎯 Career Interests
+- Applied Artificial Intelligence
+- Machine Learning
+- AI Product Development
+- AI Solutions for Business and Government
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/nygmetali-zhadiger/)
